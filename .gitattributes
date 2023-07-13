@@ -1,0 +1,4 @@
+core/static/bootstrap/css/*.css linguist-vendored
+core/static/bootstrap/css/*.css.* linguist-vendored
+core/static/bootstrap/js/*.js linguist-vendored
+core/static/bootstrap/js/*.js.* linguist-vendored
